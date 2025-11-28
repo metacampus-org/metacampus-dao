@@ -45,7 +45,7 @@
 | :---- | :---- | :---- |
 | devLudowicz | Algorithmic governance+EU/xGov alignment | TBD ($220K \- $260K?) |
 | manAM | “Dean” | $440k \- $660k |
-| devPL* | "Senior Dev"* | $220k* |
+| devPL* | "Senior Dev"* | $440k* |
 
 ### **Total Personnel Spend**
 
