@@ -592,4 +592,4 @@ This value is close to π√2 with an absolute difference of ≈ 0.03739 (relati
 *Fig. 4*: φⁿ matrix and bi-directional tunnel (scanned)
 ![figure 4](https://github.com/user-attachments/assets/a987f343-227c-4498-8849-1347f1375891)
 
-Powered by [xAI](https://x.ai).
+Powered by xAI
